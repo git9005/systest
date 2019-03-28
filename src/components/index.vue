@@ -1,21 +1,6 @@
 <template>
     <div>
-       <Layout>
-           <Header>header</Header>
-           <Layout>
-               <Sider>
-                   <p>AAA</p>
-                   <p>AAA</p>
-                   <p>AAA</p>
-                   <p>AAA</p>
-                   <p>AAA</p>
-                   <p>AAA</p>
-                   <p>AAA</p>
-               </Sider>
-               <Content>content</Content>
-           </Layout>
-           <Footer>footer</Footer>
-       </Layout>
+       ddd
     </div>
 </template>
 <script>
