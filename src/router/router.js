@@ -15,10 +15,11 @@ const _routes=[
         name:'Index',
         children:[{
             path:'/',
-            name:'index',
+            name:'home',
             component:Index
         }]
-    },{
+    },
+    {
         path:'contract',
         component:Layout,
         name:'contract',
@@ -27,7 +28,8 @@ const _routes=[
             name:'contract',
             component:contract
         }]
-    },{
+    },
+    {
         path:'contact',
         component:Layout,
         name:'contact',
